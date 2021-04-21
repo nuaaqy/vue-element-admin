@@ -1,0 +1,8 @@
+【2020-4-5 开始深入学习并整理笔记】
+1、  创建一个研究独立分支
+git branch qydev
+git checkout qydev
+2、修改菜单
+D:\workspace\vscode\vuestudy\vue-element-admin\mock\role\routes.js 包含的是菜单权限（待确定）
+D:\workspace\vscode\vuestudy\vue-element-admin\src\router\modules\charts.js 包含菜单名称
+D:\workspace\vscode\vuestudy\vue-element-admin\src\router\index.js 包含一级菜单的名字
